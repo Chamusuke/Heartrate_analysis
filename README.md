@@ -1,5 +1,5 @@
 # Heartrate_analysis
 
-#deb
--python3
--(aruduino)
+# deb
+- python3
+- (aruduino)
