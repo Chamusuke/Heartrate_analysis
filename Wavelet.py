@@ -7,8 +7,8 @@ from ecgdetectors import Detectors
 from scipy import signal
 
 width = 6
-FILE_NAME = 'takahasi_good_DPG.csv'  # wake データファイル
-FILE_NAME_1 = 'test.csv'  # sleep データファイル
+FILE_NAME = 'DPG_rawdata_wake.csv'  # wake データファイル
+FILE_NAME_1 = 'DPG_rawdata_sleep.csv'  # sleep データファイル
 Fs = 100  # sampling frequency [10ms]
 M = 8  # score of moving average ( )
 DAT_LEN = 180  # data range[s]
