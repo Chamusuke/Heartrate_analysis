@@ -7,6 +7,7 @@ You cat use signal processing such as noise processing, FFT and wavelet
 - (aruduino)
 
 ## senser
+![IMG_0260](https://github.com/Chamusuke/Heartrate_analysis/assets/120120108/1ce6f84a-d890-477e-964f-7acbae813f93)
 ![最終発表用＿脈拍解析編_中村隼人](https://github.com/Chamusuke/Heartrate_analysis/assets/120120108/3f2b1b05-efe7-414e-9f2a-e6a0d6edd1e7)
 
 ##  信号処理
